@@ -1,5 +1,4 @@
 # HEADLINER
-<<<<<<< HEAD
 HEADLINER is an AI-powered tool that generates relevant titles and summaries for articles using models like BERT and T5-small. It features a Python backend for inference, a Node.js layer for auth and history, and uses ROUGE, BLEU, and F1 for evaluation. Perfect for content creators and researchers.
 =======
 
@@ -99,4 +98,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - Hugging Face for providing pre-trained transformer models
 - The creators of BERT and T5
->>>>>>> 9db1fd86 (Initial commit)
